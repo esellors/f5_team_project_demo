@@ -1,4 +1,5 @@
 # f5_team_project_demo
 
-We need a better quote. - Ben Franklin
+Sometimes it be like it be - Ben Franklin
 
+BBQ and recreational soccer with random people.
