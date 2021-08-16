@@ -1,3 +1,5 @@
 # f5_team_project_demo
 
-Sometime it be like it be - Ben Franklin
+Sometimes it be like it be - Ben Franklin
+
+BBQ and recreational soccer with random people.
